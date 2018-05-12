@@ -1,0 +1,30 @@
+_repo: A-Short-History-of-the-6th-Division--Aug.-1914-March-1919_20115
+_version: 0.1.0
+alternative_title: 'A Short History of the Sixth Division: Aug. 1914-March 1919'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Marden, Thomas Owen, Sir
+    birthdate: 1866
+    gutenberg_agent_id: '9090'
+    url: http://www.gutenberg.org/2009/agents/9090
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20115'
+  lccn: '21010039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Division, 6th'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: 'A Short History of the 6th Division: Aug. 1914-March 1919'
+url: http://www.gutenberg.org/ebooks/20115
